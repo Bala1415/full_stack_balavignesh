@@ -1,12 +1,14 @@
 # Project Documentation
 
 ## Project Overview
-This project is designed to [brief description of the project]. It aims to [purpose of the project].
+This project is designed to provide a full-stack web application template. It aims to help developers quickly set up a new project with a Node.js backend and a MySQL database.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- User authentication and authorization
+- RESTful API endpoints
+- Database migrations
+- Responsive front-end design
+- Comprehensive documentation generation
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -20,7 +22,7 @@ To install this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Bala1415/full_stack_balavignesh
     ```
 
 2. Navigate to the project directory:
@@ -108,7 +110,7 @@ To contribute to this project, follow these steps:
 5. Create a pull request.
 
 ## License
-This project uses the [license name] License. See the [LICENSE](LICENSE) file for more details.
+This project uses the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 If you want to contact me, you can reach me at aubalavignesh1010@gmail.com.
